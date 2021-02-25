@@ -18,13 +18,13 @@ Selamat datang di android learning resource(**ALR**). **ALR** merupakan **reposi
 * Memulai Pemrograman Dengan Kotlin
   * [Kotlin Fundamental](Memulai%20Pemrograman%20dengan%20Kotlin/kotlin-fundamental.md)
   * [Control Flow](Memulai%20Pemrograman%20dengan%20Kotlin/control-flow.md)
-  * Data Class dan Collections
+  * [Data Class dan Collections](Memulai%20Pemrograman%20dengan%20Kotlin/data-class-collection.md)
   * Functional Programming
-  * [Object Oriented Programming](https://github.com/aransafp/android-learning-resource/blob/main/Memulai%20Pemrograman%20dengan%20Kotlin/OOP.md)
+  * [Object Oriented Programming](Memulai%20Pemrograman%20dengan%20Kotlin/OOP.md)
   * Generics
   * Coroutines
 * Belajar Prinsip Pemrograman S.O.L.I.D.
-  * [Prinsip S.O.L.I.D.](https://github.com/aransafp/android-learning-resource/blob/development/Belajar%20Prinsip%20Pemrograman%20SOLID/solid.md)
+  * [Prinsip S.O.L.I.D.](Belajar%20Prinsip%20Pemrograman%20SOLID/solid.md)
 * Belajar Membuat Aplikasi Android untuk Pemula
 * Belajar Fundamental Aplikasi Android
 * Belajar Android Jetpack Pro
@@ -32,5 +32,5 @@ Selamat datang di android learning resource(**ALR**). **ALR** merupakan **reposi
 
 ## Contribution
 
-* [Apa yang bisa kalian kontribusikan ?](https://github.com/aransafp/android-learning-resource/blob/main/CONTRIBUTING.md)
+* [Apa yang bisa kalian kontribusikan ?](CONTRIBUTING.md)
 * [**Cara berkontribusi di Github**](https://www.petanikode.com/github-workflow/)
